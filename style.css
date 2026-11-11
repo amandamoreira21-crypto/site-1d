@@ -994,7 +994,19 @@ footer a:hover {
         text-align: center;
     }
 }
+:root {
+    color-scheme: light;
+}
 
+html {
+    color-scheme: light;
+    background-color: #fffaf0;
+}
+
+body {
+    background-color: #fffaf0;
+    color: #173b4f;
+}
 /* ACESSIBILIDADE */
 
 @media (prefers-reduced-motion: reduce) {
