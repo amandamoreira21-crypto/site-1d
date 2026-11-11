@@ -6,7 +6,17 @@
     padding: 0;
     box-sizing: border-box;
 }
+:root {
+    color-scheme: light;
+}
 
+html {
+    color-scheme: light;
+}
+
+body {
+    background-color: #fffaf0;
+}
 :root {
     --ocean: #006b78;
     --deep: #003e50;
