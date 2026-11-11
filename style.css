@@ -17,7 +17,20 @@
     --orange: #ffb46d;
     --text: #174451;
 }
+:root {
+    color-scheme: only light;
+    supported-color-schemes: light;
+}
 
+html {
+    color-scheme: only light !important;
+    background-color: #fffaf0;
+}
+
+body {
+    background-color: #fffaf0;
+    color: #173b4f;
+}
 html {
     scroll-behavior: smooth;
 }
